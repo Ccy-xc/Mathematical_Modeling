@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.19)  20 SEP 2024 16:21
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.19)  20 SEP 2024 18:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1485,15 +1485,8 @@ Package Listings Warning: Text dropped after begin of listing on input line 146.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
-
-
-Package rerunfilecheck Warning: File `example.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `example.out':
-(rerunfilecheck)             Before: 8A402A42AF4DA0A497A3E2125D232A87;1449
-(rerunfilecheck)             After:  3BBD1F2F4BECD31921D9AC649A613096;1357.
+Package rerunfilecheck Info: File `example.out' has not changed.
+(rerunfilecheck)             Checksum: 3BBD1F2F4BECD31921D9AC649A613096;1357.
  )
 (\end occurred when \iftrue on line 17 was incomplete) 
 Here is how much of TeX's memory you used:
